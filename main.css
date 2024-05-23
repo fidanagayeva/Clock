@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.clock {
+    font-size: 90px;
+    color: #fff;
+    background: red;
+    border-radius: 15px;
+    padding: 35px 50px;
+}
